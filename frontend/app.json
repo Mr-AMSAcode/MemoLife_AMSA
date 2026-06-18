@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "MemoLife",
+    "slug": "memolife",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "memolife",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1A1A2E"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
